@@ -1,0 +1,14 @@
+<mj-raw>
+  <!-- Header -->
+</mj-raw>
+<mj-section background-color="#ffffff" padding="20px 20px 0px 20px">
+  <mj-column padding="0px" width="50%">
+    <mj-image padding="0" align="left" href="https://www.petsmart.com/" src="/assets/petsmart.png" width="130px" height="32.92px" />
+  </mj-column>
+  <mj-column padding="0px" width="50%">
+    <mj-image padding="0" align="right" href="https://www.petsmart.com/" src="/assets/treats.png" width="100px" height="20px" />
+    <mj-text align="right" font-size="14px" font-weight="bold" line-height="10px" color="#98999b">
+      hi, Jobe
+    </mj-text>
+  </mj-column>
+</mj-section>
